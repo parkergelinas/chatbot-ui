@@ -1,6 +1,11 @@
-# Chatbot UI
+# Nicholas's fork instructions
 
-*The following readme has not been updated from the original*
+1. Fork this repo
+2. Deploy with Vercel
+3. Add env vars to Vercel for `OPENAI_API_KEY` and `PASSWORD`
+4. Enjoy!
+
+# Chatbot UI (original docs)
 
 Chatbot UI is an open source chat UI for AI models.
 
