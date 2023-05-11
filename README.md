@@ -1,5 +1,7 @@
 # Chatbot UI
 
+*The following readme has not been updated from the original*
+
 Chatbot UI is an open source chat UI for AI models.
 
 See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=AowqkodyK6B4JccSOxSPew).
